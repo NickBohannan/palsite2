@@ -172,7 +172,7 @@ h3 {
 }
 
 .bg-img-2 {
-  background-image: url(../img/background-img/bg-img-2.jpg);
+  background-image: url(../img/slider/cncmachine.jpeg);
 }
 
 .cta-bg-1 {
@@ -885,7 +885,6 @@ h3 {
   opacity: 0.2;
 }
 .slider-area .single-slider .slider-content {
-  background: #fff;
   padding: 73px 56px 100px 50px;
   position: relative;
   z-index: 9;
@@ -906,7 +905,7 @@ h3 {
   font-family: "Rubik", sans-serif;
   font-weight: 500;
   font-size: 60px;
-  color: #102245;
+  color: #fff;
   line-height: 72px;
   margin-bottom: 28px;
 }
